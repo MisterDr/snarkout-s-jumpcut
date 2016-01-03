@@ -1,0 +1,24 @@
+﻿/* Alert panel - cancel */
+"Cancel" = "Annuler";
+
+/* Alert panel - clear clippings list - message */
+"Clear" = "Effacer";
+
+/* Alert panel - clear clippings list - title */
+"Clear Clipping List" = "Vider la liste des découpages";
+
+/* Alert panel - clear clippings list - message */
+"Do you want to clear all recent clippings?" = "Voulez vous effacer tous les découpages récents?";
+
+/* Alert panel - don't warn me */
+"Don't Warn Me Again" = "Ne plus me prévenir";
+
+/* Alert panel - resize stack - action */
+"Resize" = "Redimensionner";
+
+/* Alert panel - resize stack - title */
+"Resize Stack" = "Redimensionner la pile";
+
+/* Alert panel - resize stack - message */
+"Resizing the stack to a value below its present size will cause clippings to be lost." = "Redimensionner la pile à une valeur inférieure à sa taille actuelle provoquera la perte de certains découpages.";
+

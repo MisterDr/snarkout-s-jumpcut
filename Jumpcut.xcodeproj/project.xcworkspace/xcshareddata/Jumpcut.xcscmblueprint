@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "65f5935a-4012-0410-b9ce-9b1107e6ff31++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "65f5935a-4012-0410-b9ce-9b1107e6ff31++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65f5935a-4012-0410-b9ce-9b1107e6ff31++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DF6D07D3-FFE3-4901-A855-F5C86E1C0DF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65f5935a-4012-0410-b9ce-9b1107e6ff31++505" : "jumpcut-code\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Jumpcut",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Jumpcut.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/svn.code.sf.net\/p\/jumpcut\/code",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65f5935a-4012-0410-b9ce-9b1107e6ff31++505"
+    }
+  ]
+}
